@@ -2,3 +2,4 @@ This is Map Interface.
 
 If we want to represent a group of objects as a Key-Value pairs then we should go for Map
 
+This is not a Child Interface of Collection

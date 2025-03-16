@@ -1,0 +1,23 @@
+First implementation class of Map is : HashMap
+
+Underlying Data Structure: HashTable
+
+Insertion Order not Preserved. It is based on hashCode of keys
+
+Duplicate keys not allowed but duplicate values allowed
+
+Both key-value heterogenous allowed
+
+Null is allowed for key(only once)
+Null is allowed for values(any number of times)
+
+Serializable/cloneable accepted
+
+RandomAccess not allowed
+
+Best Choice: If our operation is searching operation or Hash related operation
+
+
+
+
+
