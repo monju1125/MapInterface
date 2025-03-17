@@ -1,0 +1,19 @@
+		Key		Value
+		---		-----
+	        101		Azim
+		102		Latif
+		103		Karim
+		104		Raihan
+
+			
+	key -- is an Object	value -- is an Object
+		
+		 Duplicate keys not allowed
+		 Duplicate values allowed
+
+ Each Key-Value pair is an Entry
+ 	Therefor Map is a group of Entry
+ 
+Map is considered:  A collection of Entry objects
+
+N.B: Collection Interface related terminology not applicable for Map

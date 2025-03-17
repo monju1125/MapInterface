@@ -1,0 +1,33 @@
+interface Map{
+			-----------------------
+			-----------------------
+
+		   interface Entry
+			{
+				object getKey()
+
+				object getValue()
+
+			   object setValue( object new o)
+
+		 	}
+
+		     --------------------------------------
+
+		     --------------------------------------
+	      
+	      }
+
+Entry Specific methods: Three methods we can apply inside interface 
+Entry / we can apply on Entry object
+
+A Map is a group of key-value pairs and each key-value pair is called an Entry
+
+	- Hence Map is considered a collection of Entry objects
+	- Without existing Map object there is no chance of existing Entry object
+	- Hence Entry Interface is defined inside Map interface
+		
+			
+
+
+				
