@@ -1,0 +1,34 @@
+Following some methods related with Map Interface:
+----------------------------------------------------------------------------
+Add a group of key-value pairs:
+		
+		void putAll( Map m )
+
+	m.putAll( Map m )
+		- All key-value pairs present in these Map will 
+		  be created to these particular object m
+-----------------------------------------------------------------------------
+
+m.get(key)
+	
+	 - If you know the key you can get corresponding value
+		- If key is not there then we will get null
+
+-------------------------------------------------------------------------------
+
+m.remove(Key)
+
+	- the entry associated with this key by default automatically removed
+
+--------------------------------------------------------------------------------
+
+You can check particular key is available in Map or not?
+
+	m.containsKey(key)
+	m.containsValue(value)
+
+
+
+	
+
+
